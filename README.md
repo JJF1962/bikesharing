@@ -37,3 +37,10 @@ As mentioned before, males use more frequentlty CitiBikes than females, the data
 [!this is an image]
 
 # Summary
+* Bikes in NYC are mostly used for up to 30 minutes.
+* Males use CitiBike around 2.6 times more than females.
+* During the  weekdays the majority of the trips come to morning and evening hours while on weekends CitiBike is more used during the day.
+* Unknow gender users predominantely ride on weekends. It is less popular time for biking among all three genders Wednesdays afternoon
+* The least busy hours are from 1am to 5am which is the most convenient time for maintenance.
+* One third of the bikes are highly used. 
+
