@@ -34,7 +34,7 @@ As mentioned before, males use more frequentlty CitiBikes than females, the data
 
 ### Delivery 2 point five -  Create the users trips by gender by weekday.
 
-![this is an image]
+![this is an image](https://github.com/JJF1962/bikesharing/blob/main/Resources/Trip%20by%20Gender%20by%20weekday.PNG)
 
 # Summary
 * Bikes in NYC are mostly used for up to 30 minutes.
