@@ -5,7 +5,7 @@ We started installing Tableu Public in our computers, secondly, we created a rep
 # Results
 * Deliverable 1: Using Python and Pandas functions, it was converted the "tripduration" column from an integer to a datetime datatype to get the time in hours, minutes, and seconds (00:00:00). After  convert the "tripduration" column to a datetime dataytpe, it was exporte export the DataFrame as a CSV file to use for the trip analysis in Deliverable 2.
 
-[!this is an image]
+[!this is an image](https://github.com/JJF1962/bikesharing/blob/main/Resources/Deliverable%201%20Trip%20duration%20to%20a%20dataframe%20format%20Deliverable%201.PNG)
 
 ## Deliverable 2:  Using Tableau, pleaase use the folloeing link for more details  [Link to Author Tableau Public] https://public.tableau.com/app/profile/julian.j.flores/viz/Challenge14complete/NYCCitiBikeStory?publish=yes
 
