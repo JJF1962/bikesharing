@@ -18,7 +18,7 @@ The trip duration for all type of users  the City Bkes are predomenantely used u
 ### Delivery 2 point two - Create the checkout times by gender.
 The data shows that the males use City Bikes around 2.6 times more than females.
 
-![this is an image]
+![this is an image](https://github.com/JJF1962/bikesharing/blob/main/Resources/Checlout%20Times%20By%20Gender.PNG)
 
 ### Delivery 2 point Three - Create the trips by weekday for each hour.
 The majority of the trips ocurrs during morning and eveing hours while on weekends CitiBikes is more popular during the day, as you can see in image below:
