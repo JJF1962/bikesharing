@@ -1,5 +1,5 @@
 # Overview of the statistical analysis
-The objective of this analysis it was to create worksheet, dashboards and stories from New York City bike-saring data.
+The objective of this analysis it was to create worksheet, dashboards and stories from New York City bike-sharing data.
 We used Python, Pandas (Jupyter notebook) and a new one Tableau that is one of the most popular data visualization tools today, we specifically learned the ways to import data into Tableau, create and style worksheets, dashboards, and stories in Tableau, the use of Tableau worksheets to display data in a professional way and portray data accurately using Tableau dashboards.
 We started installing Tableu Public in our computers, secondly, we created a repository named "bikesharing" and downloaded all the data from Citi Bike Trip Histories all contained in a large CSV file named 201908-citibike-tripdata.csv.zip; thirdly we imported the data to Tableau as a text file, we learned how to work with Tableau and following the Challenge 14 instruction we obtained the following results.
 # Results
@@ -33,6 +33,7 @@ As mentioned before, males use more frequentlty CitiBikes than females, the data
 ![this is an image](https://github.com/JJF1962/bikesharing/blob/main/Resources/Trips%20by%20Gender%20(Weekdays%20per%20Hour).PNG)
 
 ### Delivery 2 point five -  Create the users trips by gender by weekday.
+Clearly shows again that males are the most active users.
 
 ![this is an image](https://github.com/JJF1962/bikesharing/blob/main/Resources/Trip%20by%20Gender%20by%20weekday.PNG)
 
