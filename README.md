@@ -23,7 +23,7 @@ The data shows that the males use City Bikes around 2.6 times more than females.
 ### Delivery 2 point Three - Create the trips by weekday for each hour.
 The majority of the trips ocurrs during morning and eveing hours while on weekends CitiBikes is more popular during the day, as you can see in image below:
 
-[!this is an image]
+![this is an image](https://github.com/JJF1962/bikesharing/blob/main/Resources/Trip%20by%20Weekday%20per%20Hour.PNG)
 
 
 ### Delivery 2 point four - Create the trips by gender (weekday per hour).
