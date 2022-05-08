@@ -12,13 +12,13 @@ We started installing Tableu Public in our computers, secondly, we created a rep
 ### Delivery 2 point one - Create the checkout Times for users.
 The trip duration for all type of users  the City Bkes are predomenantely used up to 30 minutes, as you can see in the image below:
 
-[!this is an image]
+![this is an image](https://github.com/JJF1962/bikesharing/blob/main/Resources/Checkout%20Times%20for%20Users.PNG)
 
 
 ### Delivery 2 point two - Create the checkout times by gender.
 The data shows that the males use City Bikes around 2.6 times more than females.
 
-[!this is an image]
+![this is an image]
 
 ### Delivery 2 point Three - Create the trips by weekday for each hour.
 The majority of the trips ocurrs during morning and eveing hours while on weekends CitiBikes is more popular during the day, as you can see in image below:
@@ -30,11 +30,11 @@ The majority of the trips ocurrs during morning and eveing hours while on weeken
 As mentioned before, males use more frequentlty CitiBikes than females, the data also shown users with unkown gender, that usually more frequently ride on weekends.The less popular time is Wednesdays, pls see image below
 
 
-[!this is an image]
+![this is an image]
 
 ### Delivery 2 point five -  Create the users trips by gender by weekday.
 
-[!this is an image]
+![this is an image]
 
 # Summary
 * Bikes in NYC are mostly used for up to 30 minutes.
