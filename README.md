@@ -30,7 +30,7 @@ The majority of the trips ocurrs during morning and eveing hours while on weeken
 As mentioned before, males use more frequentlty CitiBikes than females, the data also shown users with unkown gender, that usually more frequently ride on weekends.The less popular time is Wednesdays, pls see image below
 
 
-![this is an image]
+![this is an image](https://github.com/JJF1962/bikesharing/blob/main/Resources/Trips%20by%20Gender%20(Weekdays%20per%20Hour).PNG)
 
 ### Delivery 2 point five -  Create the users trips by gender by weekday.
 
